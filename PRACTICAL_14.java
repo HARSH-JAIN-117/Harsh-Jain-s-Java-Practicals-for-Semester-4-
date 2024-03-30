@@ -9,7 +9,7 @@ Write a program in Java to make such a pattern like a right angle triangle with 
 
 import java.util.Scanner;
 
-public class Program14_PatternA {
+public class PRACTICAL_14 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter No. of Rows for the Triangle :-");
