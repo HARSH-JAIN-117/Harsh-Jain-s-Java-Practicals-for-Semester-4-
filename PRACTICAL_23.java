@@ -1,3 +1,5 @@
+//Write a java program to find the factorial of a number entered by the user.
+
 public class PRACTICAL_23 {
 
     static int factorial(int n){    
