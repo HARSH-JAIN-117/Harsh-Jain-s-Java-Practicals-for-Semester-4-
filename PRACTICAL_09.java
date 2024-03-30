@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Program09_FloatingPoint {
+public class PRACTICAL_09.java {
     public static void main(String[] args) {
         float a, b;
         try (Scanner sc = new Scanner(System.in)) {
