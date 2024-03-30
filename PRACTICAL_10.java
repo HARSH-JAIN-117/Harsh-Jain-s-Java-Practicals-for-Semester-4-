@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Program10_CharTest {
+public class PRACTICAL_10.java {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter any String:-");
