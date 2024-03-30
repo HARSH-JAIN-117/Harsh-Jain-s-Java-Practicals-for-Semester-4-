@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Program13_MultiplicationTable {
+public class PRACTICAL_13 {
     public static void main(String[] args) {
         int num;
         try (Scanner sc = new Scanner(System.in)) {
