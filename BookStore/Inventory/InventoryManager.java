@@ -19,11 +19,6 @@ public class InventoryManager {
     public void updateStockLevel(String isbn, int newStockLevel) {
         for (Book book : books) {
             if (book.getIsbn().equals(isbn)) {
-                // Update the stock level
-                // For simplicity, let's assume stock level is an attribute in Book class
-                // In a real-world scenario, you might want to have a separate Stock class
-                // and manage it accordingly.
-                // book.setStockLevel(newStockLevel);
                 System.out.println("Stock level updated for ISBN: " + isbn);
                 return;
             }
