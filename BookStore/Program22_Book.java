@@ -6,7 +6,7 @@ import Bookstore.inventory.*;
 public class Program22_Book {
     public static void main(String[] args) {
         // Creating a sample book
-        Book sampleBook = new Book("The Chinmay's Biography", "CKkkk", "123456789", 99.99);
+        Book sampleBook = new Book("The Unsolvable Paradox", "tup", "123456789", 99.99);
 
         // Creating an inventory manager and adding the sample book
         InventoryManager inventoryManager = new InventoryManager();
